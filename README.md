@@ -2,3 +2,5 @@
 latihan day 1 FTDS 
 
 yo latihan dulu cuy
+
+ini tambahannya dari laptop cuy
