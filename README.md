@@ -6,3 +6,5 @@ yo latihan dulu cuy
 ini tambahannya dari laptop cuy
 
 tambahan lagi
+
+tambahan dari github
